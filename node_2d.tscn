@@ -1,0 +1,181 @@
+[gd_scene load_steps=6 format=3 uid="uid://b56frdytclb65"]
+
+[ext_resource type="Texture2D" uid="uid://btpysmqk7w2ge" path="res://board sprite.png" id="1_butq5"]
+[ext_resource type="Script" path="res://Player.gd" id="2_uyvt6"]
+[ext_resource type="Script" path="res://game_manager.gd" id="3_4nxgo"]
+[ext_resource type="PackedScene" uid="uid://b5q6wtc87elj0" path="res://Piece.tscn" id="3_lfx2j"]
+[ext_resource type="Texture2D" uid="uid://b5d1huqxdpif5" path="res://Background.png" id="6_n5ltj"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Board" type="Sprite2D" parent="."]
+scale = Vector2(1.3, 1.3)
+texture = ExtResource("1_butq5")
+
+[node name="PlayerOneRoute" type="Node2D" parent="Board"]
+
+[node name="1" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-62, 118)
+
+[node name="2" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-171, 120)
+
+[node name="3" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-289, 118)
+
+[node name="4" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-409, 115)
+
+[node name="5" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-405, 1)
+
+[node name="6" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-287, 2)
+
+[node name="7" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-171, 1)
+
+[node name="8" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(-62, 2)
+
+[node name="9" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(42, 2)
+
+[node name="10" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(169, 4)
+
+[node name="11" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(289, 4)
+
+[node name="12" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(400, 2)
+
+[node name="13" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(401, 122)
+
+[node name="14" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(283, 111)
+
+[node name="15" type="Node2D" parent="Board/PlayerOneRoute"]
+position = Vector2(150, 163)
+
+[node name="PlayerOneRoute2" type="Node2D" parent="Board"]
+
+[node name="1" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-60, -111)
+
+[node name="2" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-173, -112)
+
+[node name="3" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-290, -122)
+
+[node name="4" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-405, -113)
+
+[node name="5" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-405, 1)
+
+[node name="6" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-287, 2)
+
+[node name="7" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-171, 1)
+
+[node name="8" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(-62, 2)
+
+[node name="9" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(42, 2)
+
+[node name="10" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(169, 4)
+
+[node name="11" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(289, 4)
+
+[node name="12" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(400, 2)
+
+[node name="13" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(401, 122)
+
+[node name="14" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(283, 111)
+
+[node name="15" type="Node2D" parent="Board/PlayerOneRoute2"]
+position = Vector2(150, 163)
+
+[node name="Player1" type="Node" parent="."]
+script = ExtResource("2_uyvt6")
+
+[node name="Pieces" type="Node2D" parent="Player1"]
+
+[node name="Piece1" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece2" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece3" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece4" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece5" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece6" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece7" parent="Player1/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Player2" type="Node" parent="."]
+script = ExtResource("2_uyvt6")
+
+[node name="Pieces" type="Node2D" parent="Player2"]
+
+[node name="Piece1" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece2" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece3" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece4" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece5" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece6" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Piece7" parent="Player2/Pieces" instance=ExtResource("3_lfx2j")]
+
+[node name="Dice" type="Node" parent="."]
+
+[node name="GameManager" type="Node" parent="."]
+script = ExtResource("3_4nxgo")
+
+[node name="Environment" type="Node" parent="."]
+
+[node name="Camera2D" type="Camera2D" parent="Environment"]
+zoom = Vector2(0.7, 0.7)
+
+[node name="Background" type="Sprite2D" parent="Environment"]
+z_index = -1
+position = Vector2(-3, -3)
+scale = Vector2(1.02148, 1.02148)
+texture = ExtResource("6_n5ltj")
+
+[node name="UI" type="Node" parent="."]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="UI"]
+follow_viewport_enabled = true
+
+[node name="CurrentTurn" type="RichTextLabel" parent="UI/CanvasLayer"]
+top_level = true
+z_index = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -912.0
+offset_top = -532.0
+offset_right = -1826.0
+offset_bottom = -1042.75
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(5, 5)
+text = "Waiting..."

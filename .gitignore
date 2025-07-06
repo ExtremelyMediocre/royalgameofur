@@ -1,0 +1,18 @@
+# Godot-specific ignores
+.import/
+.export/
+godot/editor_data/
+godot/editor_settings-*.tres
+.godot/
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Built binaries or cache
+*.exe
+*.dll
+*.mp4
+*.wav
+*.ogg

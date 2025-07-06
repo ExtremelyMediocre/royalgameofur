@@ -1,0 +1,207 @@
+Folder PATH listing for volume Acer
+Volume serial number is 9227-C482
+C:.
+³   .gitattributes
+³   .gitignore
+³   Background.aseprite
+³   Background.png
+³   Background.png.import
+³   board image.jpg
+³   board image.jpg.import
+³   board sprite.aseprite
+³   board sprite.png
+³   board sprite.png.import
+³   game_manager.gd
+³   icon.svg
+³   icon.svg.import
+³   nod1D39.tmp
+³   nod682D.tmp
+³   nod7963.tmp
+³   nod84E0.tmp
+³   nod9F73.tmp
+³   nodAF23.tmp
+³   nodCAA3.tmp
+³   nodCE4B.tmp
+³   nodCFB5.tmp
+³   nodE922.tmp
+³   node_2d.tscn
+³   output.txt
+³   PieB8E9.tmp
+³   piece.gd
+³   Piece.tscn
+³   Player.gd
+³   Player1Piece.aseprite
+³   Player1Piece.png
+³   Player1Piece.png.import
+³   Player2Piece.aseprite
+³   Player2Piece.png
+³   Player2Piece.png.import
+³   project.godot
+³   
+ÀÄÄÄ.godot
+    ³   .gdignore
+    ³   global_script_class_cache.cfg
+    ³   scene_groups_cache.cfg
+    ³   uid_cache.bin
+    ³   
+    ÃÄÄÄeditor
+    ³       create_recent.Node
+    ³       editor_layout.cfg
+    ³       favorites
+    ³       favorites.Node
+    ³       filesystem_cache8
+    ³       filesystem_update4
+    ³       game_manager.gd-folding-41c916bdd9e40a36f47a0faae7f651b5.cfg
+    ³       node_2d.tscn-editstate-362256a061aa8890e9a1e558b11e5ec3.cfg
+    ³       node_2d.tscn-folding-362256a061aa8890e9a1e558b11e5ec3.cfg
+    ³       piece.gd-folding-36961ad2492c92408f7ce1d5940c43d0.cfg
+    ³       Piece.tscn-editstate-a395e1fd5fd419ea68529e735f941556.cfg
+    ³       piece.tscn-editstate-c3b77a42598008018d64ac08cb403f69.cfg
+    ³       Piece.tscn-folding-a395e1fd5fd419ea68529e735f941556.cfg
+    ³       piece.tscn-folding-c3b77a42598008018d64ac08cb403f69.cfg
+    ³       Player.gd-folding-bd414024df1f21085880ce357114f0e7.cfg
+    ³       Player1Piece.tscn-editstate-b7837b5a3fa4eeee1192b2fb48b52dea.cfg
+    ³       Player1Piece.tscn-folding-b7837b5a3fa4eeee1192b2fb48b52dea.cfg
+    ³       project_metadata.cfg
+    ³       recent_dirs
+    ³       script_editor_cache.cfg
+    ³       
+    ÃÄÄÄimported
+    ³       Background.png-d346e9ce37c7294bb8a0c89de5d380cd.ctex
+    ³       Background.png-d346e9ce37c7294bb8a0c89de5d380cd.md5
+    ³       board image.jpg-0559bbd71e524eb436b7f0b5bfd8a488.ctex
+    ³       board image.jpg-0559bbd71e524eb436b7f0b5bfd8a488.md5
+    ³       board sprite.png-813396b760fe7b012ed29be20ff6525d.ctex
+    ³       board sprite.png-813396b760fe7b012ed29be20ff6525d.md5
+    ³       icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex
+    ³       icon.svg-218a8f2b3041327d8a5756f3a245f83b.md5
+    ³       Player1Piece.png-50bf5ee138484c8c3b2a099d38919a16.ctex
+    ³       Player1Piece.png-50bf5ee138484c8c3b2a099d38919a16.md5
+    ³       Player2Piece.png-e46c8482e281d6481d9ff049adc8a18a.ctex
+    ³       Player2Piece.png-e46c8482e281d6481d9ff049adc8a18a.md5
+    ³       
+    ÀÄÄÄshader_cache
+        ÃÄÄÄBlitShaderRD
+        ³   ÀÄÄÄ09b63e5347ccb6779fd79e54b093cfc915ec80510efa1f613c9ada9ff2e0f70d
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄBlurRasterShaderRD
+        ³   ÀÄÄÄ1491fde07959e0231c42129c86e0b36750d05d340fa12a234e747a34c291ab85
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄBokehDofRasterShaderRD
+        ³   ÀÄÄÄf30ffa9b63b7111cdeebc9cfd845e16bce37fb3def0098b0ea4291c5cba4c56c
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCanvasOcclusionShaderRD
+        ³   ÀÄÄÄ42f2245b35206bcace1cda9e39e9282519e9967978ba6d5956472809525b1150
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCanvasSdfShaderRD
+        ³   ÀÄÄÄf65579ae334cdfb6901aee2527afd18ed626d1067a35c91f12fb632b45ce7f21
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCanvasShaderRD
+        ³   ÀÄÄÄ165f6964cfc63fea91c4221f04e7b8a54b5dc39d76b5a57aed5f99b20050b148
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           45fb1ddc6499e56682916a355ce2839e61f42dfe.vulkan.cache
+        ³           6b3b870743b828dcd054fdf31e0034e036dad94f.vulkan.cache
+        ³           7d18bd726a158f1a35b723c8e73e7de5ebb3d37c.vulkan.cache
+        ³           8a7277c8d3ac029b087c3fa9c55de85560be5119.vulkan.cache
+        ³           c0a681ae42aa3e0b5abba232ccae0b036be455e4.vulkan.cache
+        ³           c58570947be7f76937b1582424c0fd3d81be0352.vulkan.cache
+        ³           ddbe30d4d1be5d69b00075293fd27da8decd4af2.vulkan.cache
+        ³           f3e258e8f7ec2e7e740b62f3bc48ecf5c99fb0db.vulkan.cache
+        ³           
+        ÃÄÄÄCopyShaderRD
+        ³   ÀÄÄÄ4a43f34799f84bc5a387aff816d36330149d91299172af9be2d3ab05cc0c4e9d
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCopyToFbShaderRD
+        ³   ÀÄÄÄ8668028c5ceed89276611359329de4a0f5d40702546caecc31456f63f6f9ffe8
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCubemapDownsamplerRasterShaderRD
+        ³   ÀÄÄÄ7b25ae2b6822705c2714ecbc0e14d2af08ab7d08e88a1c3b7fa0ecc9bb281250
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCubemapFilterRasterShaderRD
+        ³   ÀÄÄÄ41fc5058a6a86412a99e75cfc00cb64be45eb0aa6d46278a0a0355ed01bc5487
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCubemapRoughnessRasterShaderRD
+        ³   ÀÄÄÄ2b317415ef9a47a49583fda31b04795e8751db94b488132f8816daa29362958a
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄCubeToDpShaderRD
+        ³   ÀÄÄÄe3db5adc31b15e80112f4d7497dc8563c39b7d64675a53dcce7f9511c5ca9f80
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄLuminanceReduceRasterShaderRD
+        ³   ÀÄÄÄ3ccd96a23701d47b6b28640ac3624f391cf503bff4453adcf9486ce1f753c572
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄMotionVectorsShaderRD
+        ³   ÀÄÄÄcbf3cbdcba0d0a2026c9fbf248556f1acd11beacc38a2e8c5ce7009ee49a1560
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄParticlesCopyShaderRD
+        ³   ÀÄÄÄ69566a7b0235d75ec40f504cd5555856aace22b5273899269166fde57287d26e
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄParticlesShaderRD
+        ³   ÀÄÄÄ47fcf57848349fdf54197e5c1f64750a69c8d54787d3509ade4781c9faa31654
+        ³           f128cab0b22fb7e0d9f023d6cdb81309be392d95.vulkan.cache
+        ³           
+        ÃÄÄÄSceneForwardMobileShaderRD
+        ³   ÀÄÄÄe902df56af9ca9d9d9416d71378d35cb342cbc94502027ef4929feede81891a9
+        ³           048236defb6bf03aff4593ae5e1ee179e6446005.vulkan.cache
+        ³           0f1bcf11b9f7757773a7866f1cd2e297cb2acf5f.vulkan.cache
+        ³           1d94d7653c04fb7febbe6df8d6c0f471ee8df8ed.vulkan.cache
+        ³           2b83ada958e476cf26531ce107fe1c0d75fac7be.vulkan.cache
+        ³           3ee92779f31d8b7471ea1440cef676bd33f29c3b.vulkan.cache
+        ³           484574d6966da5fa625415ab5c4d35d8a9fde9f7.vulkan.cache
+        ³           7fb66440f65dac23b75016fc52fb82ae26e9393f.vulkan.cache
+        ³           8c4a6577a4ef29bb59d10356dbe5e400d812d8bb.vulkan.cache
+        ³           8eb7aeac3861680a0202f049c0bfdcf05b99b274.vulkan.cache
+        ³           a6d99b637dfee75712ae57f13dc63ae39e299a45.vulkan.cache
+        ³           a8d4cef55e3ab1332d431b88da8465c79f0e608a.vulkan.cache
+        ³           aa0086cc160e9e167e95546ad5eb0423d596c5b3.vulkan.cache
+        ³           ab60f8b228c0dad11d9d882c2ab4f61eb6ca2f20.vulkan.cache
+        ³           afe1c0449d843047874ee4b0dda3f797decb0436.vulkan.cache
+        ³           b7b2f398c116e26c751517dd8d44535f700f825f.vulkan.cache
+        ³           c4c828897f8a3fe72e3713d35b4ba452d7ed9acf.vulkan.cache
+        ³           c911b2eb203b7525047b1fc26929407fb3d4191d.vulkan.cache
+        ³           fe8dec228868b5370e5ab7c53602014f601705fc.vulkan.cache
+        ³           
+        ÃÄÄÄShadowFrustumShaderRD
+        ³   ÀÄÄÄc9c1b6421f8f6625effc9ddfa4bb2c09cafda0942b62fb8e1414e90820e18fa0
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄSkeletonShaderRD
+        ³   ÀÄÄÄ4964fd59acf4406110ae7bca4b716f23ae52cc19864e21a8a35aee53e141e17e
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄSkyShaderRD
+        ³   ÀÄÄÄ4bc541bfde1c30032df77bb4c98974909ad0368d22557f44e6cf095b26c0490a
+        ³           03e3b11c69e24394b2d955a8c0ba85587bb70839.vulkan.cache
+        ³           0a0fb987bd6ede673a5edeb59834f887758ae2a6.vulkan.cache
+        ³           301c34f080b0d9fb9ff1c17636ea175173a43e1c.vulkan.cache
+        ³           de678811d1bad3cad4892a8db7b6ea0be197d51d.vulkan.cache
+        ³           
+        ÃÄÄÄSortShaderRD
+        ³   ÀÄÄÄ0b1e36114ab5330dc340cc740b0b946ed2dbf43098119b8d29cfa0222da18b7a
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄSpecularMergeShaderRD
+        ³   ÀÄÄÄa119881bb41d0ec2f36a7f060866ec38b88afa6d0e484a431c65b35b5a2e820b
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÃÄÄÄTonemapShaderRD
+        ³   ÀÄÄÄ1c4748b3de350503048a1f9eca4f1dc2b308086460692ea0a81bababfd80542a
+        ³           087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+        ³           
+        ÀÄÄÄVrsShaderRD
+            ÀÄÄÄdef705023965d273a669c1ac6acfd7494138bde25b3e3bde0969c3c7a32c3aae
+                    087916079fba7c625e62b0c2cca570e0fb87c99a.vulkan.cache
+                    
