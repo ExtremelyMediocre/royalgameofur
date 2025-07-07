@@ -59,51 +59,51 @@ position = Vector2(283, 111)
 [node name="15" type="Node2D" parent="Board/PlayerOneRoute"]
 position = Vector2(150, 163)
 
-[node name="PlayerOneRoute2" type="Node2D" parent="Board"]
+[node name="PlayerTwoRoute" type="Node2D" parent="Board"]
 
-[node name="1" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="1" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-60, -111)
 
-[node name="2" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="2" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-173, -112)
 
-[node name="3" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="3" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-290, -122)
 
-[node name="4" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="4" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-405, -113)
 
-[node name="5" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="5" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-405, 1)
 
-[node name="6" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="6" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-287, 2)
 
-[node name="7" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="7" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-171, 1)
 
-[node name="8" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="8" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(-62, 2)
 
-[node name="9" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="9" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(42, 2)
 
-[node name="10" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="10" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(169, 4)
 
-[node name="11" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="11" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(289, 4)
 
-[node name="12" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="12" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(400, 2)
 
-[node name="13" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="13" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(401, 122)
 
-[node name="14" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="14" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(283, 111)
 
-[node name="15" type="Node2D" parent="Board/PlayerOneRoute2"]
+[node name="15" type="Node2D" parent="Board/PlayerTwoRoute"]
 position = Vector2(150, 163)
 
 [node name="Player1" type="Node" parent="."]
